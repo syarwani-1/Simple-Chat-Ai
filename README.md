@@ -35,6 +35,7 @@ pip install python-dotenv groq
 - Modify `temperature` to adjust response creativity
 - Change `max_tokens` to control response length
 - Select different Groq AI models as needed
+- Customize the system instructions as you like [Change here](https://github.com/syarwani-1/Simple-Chat-Ai/blob/adbad9f986cc38da816c860ef628a018269d2aec/chat_ai.py#L15)
 
 ## Running the Application
 ```bash
