@@ -1,7 +1,7 @@
-# Groq Chat Terminal Application
+# Groq Chat Terminal
 
 ## Overview
-A simple terminal-based chat application using Groq AI for conversational interactions.
+A simple terminal-based chat using Groq AI for conversational interactions.
 
 ## Prerequisites
 - Python 3.8+
@@ -38,7 +38,7 @@ pip install python-dotenv groq
 
 ## Running the Application
 ```bash
-python chat_app.py
+python chat_ai.py
 ```
 
 ### Usage
